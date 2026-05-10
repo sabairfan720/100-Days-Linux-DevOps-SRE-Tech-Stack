@@ -97,7 +97,7 @@ sysctl -w net.ipv6.conf.default.disable_ipv6=1
 | `hostnamectl` | Displays system hostname and operating system details. | Helps identify the machine and system information. |
 | `hostnamectl set-hostname <your-hostname>` | Changes the system hostname. | Useful for naming servers and organizing systems in a network or lab. |
 | `uptime` | Shows how long the system has been running. | Helps monitor system stability and workload. |
-| `reboot` | Restarts the operating system. | Common administrative command for applying changes or recovery. |
+| `dnf update -y` | updates RPM repositories. | Helps to bring all your respositories and versions to current status. |
 | `passwd` | Changes a user password. | Essential for account security and user management. |
 | `/bin/bash` | Launches a new Bash shell (typically a non-login shell). | Useful for entering a shell environment or troubleshooting. |
 | `exit` | Closes the current shell session. | Safely logs out or exits the terminal session. |
