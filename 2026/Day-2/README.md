@@ -1,4 +1,5 @@
 # Welcome to NIT Academy - Day 2
+## Pehla din aur doosra din sab aik hain!
 ## Same as Day-1 Content
 ~~~
 Day-1: Saturday 9th May, 2026
