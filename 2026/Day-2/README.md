@@ -123,8 +123,10 @@ Click on the link https://github.com/
 | 10 | Create Repository | Click **Create repository** |
 
 # Task 4 - Register or Update Linkedin
-Click on the link https://www.linkedin.com/\
-Create your account on linkedin
+Task 4 - Register or Update Linkedin
+Click on the link 
+> https://www.linkedin.com/
+
 # Task 5 - Git Bash
 Click on the link https://git-scm.com/install/windows
 ## Git Bash Setup Steps

@@ -120,7 +120,7 @@ Run:
 wsl --list --verbose
 ```
 
-Short version:
+Short version (same command as above)
 
 ```powershell
 wsl -l -v
@@ -154,7 +154,7 @@ Run:
 wsl --list --online
 ```
 
-Short version:
+Short version:(same command as above)
 
 ```powershell
 wsl -l -o
