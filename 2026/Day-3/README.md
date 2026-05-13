@@ -192,23 +192,18 @@ Restart your computer if prompted.
 
 # Task 6 - Install a Specific Distro
 
+To view valid distro names:
+
+```powershell
+wsl --list --online
+```
+
 Install Ubuntu:
 
 ```powershell
 wsl --install -d Ubuntu
 ```
 
-Install Debian:
-
-```powershell
-wsl --install -d Debian
-```
-
-To view valid distro names:
-
-```powershell
-wsl --list --online
-```
 
 ---
 
